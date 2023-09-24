@@ -6,7 +6,7 @@
 
 - This is a simple project just to verify that my software development environment is set up correctly
 
-[Software Demo Video](https://youtu.be/XxLgUsxMaIc)
+[Software Demo Video](https://youtu.be/ROWPt4dq1dk)
 
 # Development Environment
 
