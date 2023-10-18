@@ -3,8 +3,6 @@
 A Geographic Information System (GIS) captures, stores, checks, and displays data related to positions on Earth's surface. This project uses the ArcGis software to display airports on a map. [Data](https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_airports.geojson) was retrieved from [geojson.xyz](geojson.xyz).
 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/tvDIopYvsZA)
 
 # Development Environment
@@ -15,7 +13,6 @@ A Geographic Information System (GIS) captures, stores, checks, and displays dat
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [ArcGis Javascript API Reference](https://developers.arcgis.com/javascript/latest/api-reference/)
 * [ArcGis Tutorials](https://developers.arcgis.com/documentation/mapping-apis-and-services/tutorials/)
 
