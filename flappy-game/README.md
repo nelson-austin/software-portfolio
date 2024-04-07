@@ -1,30 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I made flappy bird! Flappy bird is an arcade-style, side-scrolling game where a player controls a bird through pipes with gaps of varying heights. Goal is to get as far as you can! Control the bird with your space bar.
+This game runs on Pygame (open-source Python library for writing video games).
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/AsQEp52XxSY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Pygame
+* Python
+* VS Code
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Getting started with Pygame](https://www.pygame.org/wiki/GettingStarted)
+* [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix Images - Images are low resolution and/or rounded edges
+* Add game sound - currently none
+* Make collisions align better
