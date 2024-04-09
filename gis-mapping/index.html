@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>National Parks</title>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.27/esri/themes/light/main.css">
+    <link rel="stylesheet" href="main.css">
+
+    <script src="https://js.arcgis.com/4.27/"></script>
+    <script src="map.js"></script>
+</head>
+<body>
+    <h1>Map of National Parks</h1>
+    <div id="viewDiv" style="width:80%;height:600px;margin:0 auto;">
+        <div id="expand" class="esri-widget">
+            <h4>Filter by Type</h4>
+            <select id="filter" class="esri-select">
+                <option value="all">All</option>
+                <option value="National Park">National Parks</option>
+                <option value="National Seashore">National Seashores</option>
+                <option value="National Recreation">National Recreations</option>
+                <option value="National Preserve">National Preserves</option>
+                <option value="National Monument">National Monuments</option>
+                <option value="National Lakeshore">National Lakeshores</option>
+            </select>
+            <div id="legend"></div>
+        </div>
+    </div>
+</body>
+</html>
