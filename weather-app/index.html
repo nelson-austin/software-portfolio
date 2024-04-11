@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="main.css">
+    
+</head>
+<body>
+    <main>
+        <h1 class="title">Weather App</h1>
+        <div class="search-container">
+            <h1>My Locations</h1>
+            <form action="" id="search-form">
+                <label for="search-form">Search for a city or area</label>
+                <div class="form-row">
+                    <input type="text" placeholder="e.g. Atlanta" name="search-term" id="search-term" autofocus>
+                    <button type="submit">Submit</button>
+                </div>
+                <p class="form-msg"></p>
+            </form>
+        </div>
+        <div>
+            <ul class="cities"></ul>
+        </div>
+    </main>
+    <script src="weather.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+html {
+    background-color: #192841;
+}
+.search-container {
+    width: 400px;
+    padding: 10px;
+    color: white;
+}
+.title {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+h2 {
+    color: white;
+}
+ul {
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 10px;
+}
+li {
+    width: 100%;
+    flex: 1 0 17%;
+    background-color: white;
+    text-align: center;
+}
